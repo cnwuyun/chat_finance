@@ -5,14 +5,6 @@ conda activate SEI202411
 
 pip install -r requirements.txt
 
-username = "robin1"
-password = "ASDqwe123##1"
-dsn = "207.211.167.18:1521/robin_pdb.sub05270741160.vcnrobin.oraclevcn.com"
-#############################
-qa:
-1.embedding model
-2.
-
 # 数据生成
 
 帮我生成班级表，班级人员表，考试表，考试成绩表的表结构，考试成绩表包含语文，数学，英语，数据库是sqlite，请帮我生成表结构。
